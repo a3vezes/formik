@@ -1,5 +1,11 @@
 # Basic Formik Implementations
 
+## Todos
+
+- Use FieldArray component
+- Use formik Hooks
+- Implement real API Calls
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
